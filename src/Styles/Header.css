@@ -1,0 +1,9 @@
+.debug {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+.fluid-container{
+    background-color: black;
+}
